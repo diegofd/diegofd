@@ -1,6 +1,6 @@
 Welcome👋 to my GitHub profile 😄.
 
-Currently, I'm working as a Senior Software Engineer at [Auth0/Okta](https://auth0.com/).
+Currently, I'm working as a Staff Software Engineer at [Auth0 by Okta](https://auth0.com/).
 
 #### 📫 How to reach me
 
